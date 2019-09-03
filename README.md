@@ -5,3 +5,5 @@ Beats (Patatap clone) is a portable animation and sound kit. With the touch of a
 2. Howler.js -> To play sounds 
 
 **Warning: contains flashing images.** 
+
+[Deployed App](https://savitha-gollamudi.github.io/Beats/)
