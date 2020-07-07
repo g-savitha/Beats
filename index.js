@@ -6,7 +6,7 @@ Press any key between (A-Z).
 <p>
 <span>Works only on PC</span> <br />
 <span><b>Warning!</b> contains flashing images and sounds. You may want to reduce the sound</span><br />
-<span><b>Pro Tip!</b> press keys simultaneouly, too create a music</span>
+<span><b>Pro Tip!</b> press keys simultaneouly, too create a musical animation</span>
 </p>
 `;
 document.querySelector("#close").addEventListener("click", (event) => {
