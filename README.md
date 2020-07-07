@@ -9,4 +9,4 @@ Beats (Patatap clone) is a portable animation and sound kit. With the press of a
 **Press any key (A-Z) to see the working application** 
 
 
-[View Demo](https://savitha-gollamudi.github.io/Beats/)
+[View Demo](https://gsavitha95.github.io/Beats/)
