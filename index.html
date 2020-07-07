@@ -213,22 +213,7 @@
         </div>
       </div>
     </div>
-
+    <script src="index.js"></script>
     <canvas id="myCanvas" resize></canvas>
   </body>
-  <script type="text/javascript">
-    var row = document.querySelector(".row");
-    // document.querySelector("#myCanvas").appendChild(row);
-    document.querySelector("#message-show").classList.remove("hide");
-    document.querySelector("p").innerHTML = `
-    Press any key between (A-Z) to listen to the sounds. 
-    <p>
-    <span>Works only on PC</span> <br />
-    <span><b>Warning!</b> contains flashing images and sounds. You may want to reduce the sound</span>
-    </p>
-    `;
-    document.querySelector("#close").addEventListener("click", (event) => {
-      document.querySelector("#message-show").classList.add("hide");
-    });
-  </script>
 </html>
